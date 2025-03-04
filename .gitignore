@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.json
+.venv
+schema.sql
+test_output.json
+UPDATES.md
+archive
