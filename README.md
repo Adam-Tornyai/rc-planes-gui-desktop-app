@@ -1,4 +1,7 @@
 # RcWeather v0.2
+![Static Badge](https://img.shields.io/badge/language-%234B8BBE?style=flat&logo=python&logoColor=%23FFE873&label=Python&labelColor=%234B8BBE&color=%23FFE873)
+![Static Badge](https://img.shields.io/badge/Database-%234B8BBE?style=flat&logo=sqlite&logoColor=%23003B57&label=SQLite3&labelColor=%230F80CC&color=%2390D4F4)
+![Static Badge](https://img.shields.io/badge/GUI-green?style=flat&label=CTkinter&labelColor=purple&color=green)
 
 # Project Overview:
 RcWeather Desktop Application v0.2 is a basic tool designed for radio-controlled airplanes. 
